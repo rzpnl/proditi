@@ -1,7 +1,7 @@
 
 ## Contributors
 
-*rezazulman@pnl.ac.id
-*zikriarraiyan@gmail.com
+- rezazulman@pnl.ac.id
+- zikriarraiyan@gmail.com
 
 
