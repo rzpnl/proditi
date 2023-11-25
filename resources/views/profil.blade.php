@@ -19,11 +19,11 @@
     </section>
     <!-- End banner Area -->
 
-    <!-- Start feature Area -->
-    <section class="feature-area pb-lg-5">
+        <!-- Start feature Area -->
+        <section class="feature-area pb-lg-5">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="single-feature">
                         <div class="title">
                             <h4>Deksripsi Program Studi</h4>
@@ -36,20 +36,20 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="single-feature">
                         <div class="title">
                             <h4>Visi Program Studi</h4>
                         </div>
                         <div class="desc-wrap">
                             <p>
-                                Menjadi pendidikan tinggi vokasi pada bidang teknologi informasi yang profesional,
-                                unggul dan berdaya saing di tingkat nasional.
+                                Menjadi pendidikan tinggi vokasi pada bidang teknologi informasi yang profesional, 
+                                unggul dan berdaya saing di tingkat nasional pada tahun 2024.
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <!-- <div class="col-lg-4">
                     <div class="single-feature">
                         <div class="title">
                             <h4>Misi Program Studi</h4>
@@ -61,10 +61,73 @@
                             </p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
+
+    <!-- Start course-mission Area -->
+    <section class="post-content-area single-post-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 posts-list">
+                    <div class="single-post row ">
+                        <div class="col-lg-12 col-md-12">
+                            <h3 class="mb-20 text-center single-feature">MISI PROGRAM STUDI</h3>
+                        </div>
+
+                        <div class="col-12">
+                            <div id="accordion">
+                                <div class="card mb-2">
+                                    <div class="card-header alert alert-info" id="headingOne">
+                                        <div class="mb-0 text-center">
+                                                Menyelenggarakan pendidikan vokasional jenjang Sarjana Terapan yang berkualitas pada
+                                                bidang teknologi informasi dengan penguatan soft skill yang memadai serta
+                                                memperhatikan kearifan-kearifan budaya lokal.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card mb-2">
+                                    <div class="card-header alert alert-info" id="headingOne">
+                                        <div class="mb-0 text-center">
+                                                Melakukan dan mengembangkan diseminasi penelitian produk terapan yang
+                                                berkualitas dibidang teknologi informasi sesuai dengan perkembangan teknologi dan
+                                                kebutuhan pangsa pasar.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card mb-2">
+                                    <div class="card-header alert alert-info" id="headingOne">
+                                        <div class="mb-0 text-center">
+                                                Melaksanakan pengabdian kepada masyarakat dan turut serta untuk memajukan
+                                                masyarakat pada bidang teknologi informasi.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card mb-2">
+                                    <div class="card-header alert alert-info" id="headingOne">
+                                        <div class="mb-0 text-center">
+                                                Memberikan layanan akademis dan teknis sesuai keahlian pada bidang profesi teknologi informasi.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card mb-2">
+                                    <div class="card-header alert alert-info" id="headingOne">
+                                        <div class="mb-0 text-center">
+                                                Menyelenggarakan kegiatan uji kompetensi bidang teknologi informasi kepada mahasiswa dan lulusan.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+            </div>
+        </div>
+    </div>
+    </section>
+    <!-- End course-mission Area -->
+
     <!-- Start course-mission Area -->
     <section class="course-mission-area pb-lg-120 pb-60">
         <div class="container">
